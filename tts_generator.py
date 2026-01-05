@@ -45,8 +45,8 @@ VOICE_MAPPING = {
     "할아버지": "ko-KR-BongJinNeural",
     "악당": "ko-KR-BongJinNeural",
     
-    # 선희(SunHi)는 차분하고 위로가 되는(Soothing) 톤이라 신/요정 역할
-    "신/요정": "ko-KR-SunHiNeural", # (Dragon HD 퀄리티 대응)
+    # 선희(SunHi)는 차분하고 위로가 되는(Soothing) 톤이라 신요정 역할
+    "신요정": "ko-KR-SunHiNeural", # (Dragon HD 퀄리티 대응)
     "동물": "ko-KR-InJoonNeural"    # 동물은 편안한 톤으로 설정 (필요 시 피치 조절)
 }
 

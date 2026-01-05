@@ -210,7 +210,7 @@ def create_video_for_story(story_data, base_dir="output_assets"):
     output_video_path = os.path.join(story_dir, f"{safe_title}_final.mp4")
     
     # 해상도 설정 (이미지 생성 사이즈와 동일하게 맞춤)
-    VIDEO_SIZE = (1792, 1024) 
+    VIDEO_SIZE = (1536, 1024) 
 
     print(f"🎬 [영상 편집 시작] '{title}'")
 
